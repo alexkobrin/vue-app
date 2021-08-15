@@ -9,7 +9,7 @@
       <ion-list>
            <ion-item>Max </ion-item>
            <ion-item>Alex </ion-item>
-           <ion-item>Den </ion-item>
+         
        </ion-list>
     </ion-content>
   </ion-page>
