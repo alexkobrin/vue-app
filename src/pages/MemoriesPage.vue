@@ -7,10 +7,10 @@
     </ion-header>
     <ion-content>
       <ion-list>
-           <ion-item>Max </ion-item>
-          
-         
-       </ion-list>
+        <ion-item>Max </ion-item>
+        <ion-item>Max </ion-item>
+        <ion-item>Max </ion-item>
+      </ion-list>
     </ion-content>
   </ion-page>
 </template>
